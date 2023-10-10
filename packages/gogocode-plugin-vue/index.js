@@ -3,7 +3,7 @@ const prettier = require('prettier');
 const collection = require('./src/collection');
 
 /**
- * 转换入口导出一个函数，按照如下函数签名sss
+ * 转换入口导出一个函数，按照如下函数签名
  * @param {*} fileInfo 包含 source 和 path 属性
  * @param {*} api 包含 gogocode 作为转换工具
  * @param {*} options 其他 option 由此传入
